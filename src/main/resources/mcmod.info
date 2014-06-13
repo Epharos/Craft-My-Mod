@@ -1,0 +1,16 @@
+[
+{
+  "modid": "craftmymod",
+  "name": "Craft My Mod",
+  "description": "Create your own mod easily",
+  "version": "1.1",
+  "mcversion": "1.7",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Epharos"],
+  "credits": "MinecraftForgeFrance.fr",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
